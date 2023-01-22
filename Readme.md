@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Dmitry Park](https://up.htmlacademy.ru/htmlcss/36/user/2201459).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Казаков](https://htmlacademy.ru/profile/id798257).
 
 ---
 
